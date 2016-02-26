@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculatheolog00weregoog/opusculatheolog00weregoog_0032.png"; bbox 0 0 4188 5670; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 666 1124 3764 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 666 1124 3764 1329">
+     <span class='ocr_line' id='line_1_1' title="bbox 666 1124 3764 1329; baseline 0.011 -36"><span class='ocrx_word' id='word_1_1' title='bbox 666 1164 683 1173; x_wconf 86' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 864 1124 3764 1329; x_wconf 38' lang='grc' dir='ltr'>,μικὲείνιειιὲιιῆάιὲεπῐιλῖρι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1400 1442 3520 1805">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1505 1442 3520 1805">
+     <span class='ocr_line' id='line_1_2' title="bbox 1772 1442 3088 1579; baseline -0.007 -17.048"><span class='ocrx_word' id='word_1_3' title='bbox 1772 1442 2142 1565; x_wconf 63' lang='grc' dir='ltr'>ἱιέ</span> <span class='ocrx_word' id='word_1_4' title='bbox 2206 1446 2880 1579; x_wconf 50' lang='lat' dir='ltr'>&amp;mames-b</span> <span class='ocrx_word' id='word_1_5' title='bbox 3003 1452 3088 1553; x_wconf 59' lang='grc' dir='ltr'>*ἱ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1400 1692 3520 1805; baseline -0.004 -1.583"><span class='ocrx_word' id='word_1_6' title='bbox 1400 1692 2474 1805; x_wconf 54' lang='grc' dir='ltr'>ῥἏθτιιιόιιε</span> <span class='ocrx_word' id='word_1_7' title='bbox 2530 1698 3520 1798; x_wconf 50' lang='lat' dir='ltr'>nbdiM&#39;f&#39;UN·{105-3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1274 1910 3862 2217">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1274 1910 3862 2217">
+     <span class='ocr_line' id='line_1_4' title="bbox 1274 1910 3862 2217; baseline 0.006 -53.373"><span class='ocrx_word' id='word_1_8' title='bbox 1274 1910 3862 2217; x_wconf 67' lang='lat' dir='ltr'>GJLBERTO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 846 2319 3878 3154">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 846 2319 3878 3154">
+     <span class='ocr_line' id='line_1_5' title="bbox 1368 2319 3380 2419; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 1368 2319 2150 2413; x_wconf 51' lang='grc' dir='ltr'>ῳιῼέἢωῑνί.</span> <span class='ocrx_word' id='word_1_10' title='bbox 2179 2321 3380 2419; x_wconf 57' lang='lat' dir='ltr'>&amp;wamsswrwn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1103 2526 3665 2665; baseline -0.002 -6"><span class='ocrx_word' id='word_1_11' title='bbox 1103 2526 3665 2665; x_wconf 61' lang='lat' dir='ltr'>Erlsssot’o’shnrsnunlfinsl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 856 2791 3878 3026; baseline 0.002 -84"><span class='ocrx_word' id='word_1_12' title='bbox 856 2823 1945 3024; x_wconf 36' lang='lat' dir='ltr'>,sAMUEL</span> <span class='ocrx_word' id='word_1_13' title='bbox 2104 2791 3878 3026; x_wconf 69' lang='lat' dir='ltr'><em>VV&#39;ERENFELSJUS</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 846 3023 3712 3154; baseline 0.001 -64"><span class='ocrx_word' id='word_1_14' title='bbox 846 3023 2724 3154; x_wconf 62' lang='lat' dir='ltr'>·nl-&#39;‘22„.--³&#39;-‘8Pb</span> <span class='ocrx_word' id='word_1_15' title='bbox 3191 3055 3712 3098; x_wconf 56' lang='lat' dir='ltr'>ae„...·.1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
